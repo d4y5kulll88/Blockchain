@@ -51,10 +51,3 @@ contract HelloWorld2 {
         return "Second Hello World Contract: Blockchain says Hello!";
     }
 }
-
-// Check it out ❤️
-// https://solidity-by-example.org/hello-world/
-
-
-// Solidity Documentation ❤️
-// https://docs.soliditylang.org/en/latest/introduction-to-smart-contracts.html
